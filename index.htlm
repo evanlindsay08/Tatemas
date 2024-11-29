@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$TMAS - The Alpha Christmas Token</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Advent+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#" style="font-family: 'Mountains of Christmas', cursive; font-size: 2rem;">
+                $TMAS
+            </a>
+            <div class="d-flex align-items-center">
+                <a href="#" class="nav-button buy-btn">
+                    <i class="fas fa-shopping-cart"></i> Buy
+                </a>
+                <a href="#" class="nav-button social-btn">
+                    <i class="fab fa-twitter"></i> Twitter
+                </a>
+                <a href="#" class="nav-button social-btn">
+                    <i class="fab fa-telegram"></i> Telegram
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero-section">
+        <div class="center-container">
+            <h1 class="snow-text">TATEMAS</h1>
+            <p class="hero-tagline">Your gift to escape the matrix!</p>
+            
+            <!-- Added Tate Image -->
+            <div class="hero-image-container">
+                <img src="assets/images/tate.jpg" alt="Andrew Tate" class="hero-image">
+            </div>
+            
+            <div id="countdown"></div>
+            
+            <div class="nav-buttons-container">
+                <button class="social-action-btn telegram-btn">
+                    <i class="fab fa-telegram"></i> Telegram
+                </button>
+                <button class="main-buy-btn">Buy Now</button>
+                <button class="social-action-btn twitter-btn">
+                    <i class="fab fa-twitter"></i> Twitter
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Candy Cane Divider -->
+    <div class="candy-cane-divider"></div>
+
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <div class="section-header-container">
+            <h2 class="section-header">What Color is Your Christmas Bugatti?</h2>
+        </div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="about-card festive-border">
+                        <div class="tate-quote text-center">
+                            "Breathe if you hate poverty 😮‍💨"
+                        </div>
+                        <div class="row mt-5">
+                            <div class="col-md-6 mb-4">
+                                <div class="feature-item text-center">
+                                    <h3>🎄 TOP G CHRISTMAS 🎄</h3>
+                                    <p class="lead">
+                                        $TMAS isn't just another Christmas token... 
+                                        it's the most ALPHA Christmas token ever created! 
+                                        Break free from the matrix this holiday season! 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-4">
+                                <div class="feature-item text-center">
+                                    <h3>💰 ESCAPE POVERTY 💰</h3>
+                                    <p class="lead">
+                                        What color will your Christmas Bugatti be? 
+                                        Join the most based community in crypto! 
+                                        WAGMI but only if you're alpha enough!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-4">
+                            <div class="col-md-6 mb-4">
+                                <div class="feature-item text-center">
+                                    <h3>🚀 MOON MISSION 🚀</h3>
+                                    <p class="lead">
+                                        Paper hands get coal! 
+                                        Diamond hands get Bugattis! 
+                                        Santa is a Top G!
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-4">
+                                <div class="feature-item text-center">
+                                    <h3>👑 BASED SANTA 👑</h3>
+                                    <p class="lead">
+                                        Breathe air, buy $TMAS! 
+                                        What color is your sleigh? 
+                                        NGMIs get blocked by Santa!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tate-quote text-center mt-4">
+                            "What color will your Christmas gains be? 📈"
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Candy Cane Divider -->
+    <div class="candy-cane-divider"></div>
+
+    <!-- Tokenomics Section -->
+    <section id="tokenomics" class="tokenomics-section">
+        <div class="section-header-container">
+            <h2 class="section-header">Tokenomics</h2>
+        </div>
+        <div class="container">
+            <div class="tokenomics-card festive-border">
+                <div class="row justify-content-center">
+                    <div class="col-md-8">
+                        <div class="tokenomics-item">
+                            Total Supply: 1,000,000,000 $TMAS
+                        </div>
+                        <div class="tokenomics-item">
+                            Tax: 0%
+                        </div>
+                        <div class="tokenomics-item">
+                            Liquidity: 100% Burnt 🔥
+                        </div>
+                        <div class="tokenomics-item">
+                            Contract Address: Coming Soon
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- JavaScript for countdown and snow effects -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
